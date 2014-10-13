@@ -1,0 +1,32 @@
+#Load in 'Engineering Health\n'
+Health 1 69
+Health 2 110
+Health 3 103
+Health 4 105
+Health 5 110
+Health 6 101
+Health 7 101
+Health 8 114
+Health 9 105
+Health 10 110
+Health 11 103
+Health 12 72
+Health 13 101
+Health 14 97
+Health 15 108
+Health 16 116
+Health 17 104
+Health 18 10
+Health 19 10
+#Pointer that will iterate over the loaded characters
+Health 0 0
+#Print the heap at the value of the pointer
+Cerner 0
+#Increment the character pointer
+Health 0 1
+#Branch back to the start of the loop.
+Engineering 0 19 19
+#Reset the character pointer to 0.
+Health 0 -18
+#Branch back to the begining of the loop.
+Engineering 0 20 18
